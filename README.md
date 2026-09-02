@@ -66,6 +66,12 @@ I enjoy learning by building projects and exploring how technology can be used t
 
 ## 📂 Featured Projects
 
+### 🎯 AI Competency Assessment Platform
+
+An AI-powered platform focused on evaluating **practical skills through real-world tasks**, identifying individual skill gaps, and helping users prepare for careers, internships, interviews, and exams.
+
+**Tech:** Flutter, Python, FastAPI, PostgreSQL/Supabase, AI/ML
+
 ### 🤖 SentiFlow AI
 
 An AI-powered **Sentiment Intelligence Platform** designed to analyze customer feedback and help identify sentiment patterns and business insights.
